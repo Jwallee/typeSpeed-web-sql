@@ -73,7 +73,7 @@ http://localhost:5001/
 ### Example: Sign Up a User
 
 ```bash
-curl -X POST http://localhost:5001/signup -H "Content-Type: application/json" -d '{"username": "testuser", "password": "password123"}'
+curl -X POST http://localhost:5001/signup -H "Content-Type: application/json" -d '{"username": "Rob", "password": "bob"}'
 ```
 
 **OR**, you can just use the sign up and login buttons!
